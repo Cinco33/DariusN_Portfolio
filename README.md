@@ -10,4 +10,4 @@ Data Science Portfolio
 
 
 #   [Project 2: Reaching Target Audience Through Social Media](https://digitalstrategyconsultants.in/blog/unlock-success-by-embracing-social-media-data-analysis/)
-For this project, I explain how marketers use social media data to reach their target audiences, whether on TikTok, Instagram, X, or Facebook.
+*  For this project, I explain how marketers use social media data to reach their target audiences, whether on TikTok, Instagram, X, or Facebook.
